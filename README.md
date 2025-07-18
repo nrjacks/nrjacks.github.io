@@ -1,4 +1,4 @@
-# BYUI DS Portfolio Template
+# BYU-I DS Portfolio Template
 ## Building a Quarto Portfolio
 
 A template for a portfolio developed with Quarto and hosted on GitHub.
