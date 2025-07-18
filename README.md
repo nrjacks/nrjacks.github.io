@@ -1,5 +1,5 @@
 # BYUI DS Portfolio Template
-## Building a Quarto Portfolo
+## Building a Quarto Portfolio
 
 A template for a portfolio developed with Quarto and hosted on GitHub.
 
@@ -7,7 +7,7 @@ This is all configured so you only need to edit the source files in Quarto (.qmd
 
 ## Using this template
 
-1. Click on green button "Use this Tempalte" -> "Create a new Repo"
+1. Click on green button "Use this Template" -> "Create a new Repo"
 
 1. Choose a name for your repository
 
