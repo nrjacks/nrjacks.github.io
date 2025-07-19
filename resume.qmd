@@ -1,89 +1,45 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Nathan Jackson's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Nathan Jackson
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+nrjacks02@byui.edu | 865.585.6887 | [linkedin.com/in/nrjacks](https://www.linkedin.com/in/nrjacks/)
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+__EDUCATION__
+_Brigham Young University - Idaho_
+- Anticipated: July 2027
+- GPA: 3.98
+- Student Accounting Society & Data Science Society
+- Recipient of Academic Scholarship (5/5 Semesters)
+- Minor: Computer Programming | Emphasis: Data Science
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## EXPERIENCE
 
-- Sizar
+__Emergency Response Operator__
+_Becklar Monitoring_
+- Respond to 100+ emergency alerts per shift, ensuring swift coordination with local authorities
+- Manage urgent calls with an average response time under 2 minutes, maintaining calm
+communication while gathering critical details
+- Maintain detailed logs and documentation for incidents, ensuring 100% compliance with industry
+and company standards
+- Collaborate with a 50-operator team to improve response protocols and service reliability
 
-`1667 - death`
-__Trinity College, Cambridge__
+__Full-Time Volunteer Representative__
+_The Church of Jesus Christ of Latter-day Saints_
+- Managed a demanding schedule of teaching and service projects, regularly working 60+
+hours/week
+- Adapted quickly to new environments and communities in 3 countries while making meaningful
+connections and navigating cultural differences
+- Developed fluency in German and regularly engaged in 14+ weekly lessons, presentations, and
+community service projects exclusively in German
+- Taught and counseled 100+ individuals from diverse cultural backgrounds
 
-- Fellow
+## SKILLS
+- Programming & Data: Python, SQL, ETL (Extract, Transform, Load)
+- Data Visualization & Analysis: Tableau, Excel
+- Tools & Productivity: Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+### Footer Last updated: July 2025
