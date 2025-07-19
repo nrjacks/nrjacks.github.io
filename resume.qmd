@@ -6,10 +6,10 @@ title: Nathan Jackson's CV
 
 nrjacks02@byui.edu | 865.585.6887 | [linkedin.com/in/nrjacks](https://www.linkedin.com/in/nrjacks/)
 
-## Education
+## EDUCATION
 
-__EDUCATION__
 _Brigham Young University - Idaho_
+
 - Anticipated: July 2027
 - GPA: 3.98
 - Student Accounting Society & Data Science Society
@@ -19,6 +19,7 @@ _Brigham Young University - Idaho_
 ## EXPERIENCE
 
 __Emergency Response Operator__
+
 _Becklar Monitoring_
 - Respond to 100+ emergency alerts per shift, ensuring swift coordination with local authorities
 - Manage urgent calls with an average response time under 2 minutes, maintaining calm
@@ -28,6 +29,7 @@ and company standards
 - Collaborate with a 50-operator team to improve response protocols and service reliability
 
 __Full-Time Volunteer Representative__
+
 _The Church of Jesus Christ of Latter-day Saints_
 - Managed a demanding schedule of teaching and service projects, regularly working 60+
 hours/week
